@@ -1,6 +1,6 @@
-# MSc Finance and Investment Final Projects
+# MSc Finance and AI Projects
 
-This repository showcases academic projects completed as part of my MSc Finance and Investment program. It includes work in financial analysis, corporate finance, Islamic banking, quantitative finance, and AI-driven strategies — blending finance with data analytics and innovation.
+This repository contains academic projects completed during my MSc in Finance & Investment, showcasing applications of AI, financial modeling, corporate finance, Islamic banking quantitative analysis, and more blending finance with data analytics and innovation.
 
 ## 📂 Project Summaries
 
